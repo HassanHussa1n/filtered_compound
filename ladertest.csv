@@ -1,0 +1,5 @@
+ChargeStationID,ChargeStationTemplateID,TariffCode,ReimbursementTariffCode,ChargeStationName,Floor,ChargeStationDirections,DeployState,InstallationDate,ContactlessType,ContactlessTerminalSerialNumber,ContactlessTerminalAuthAmount,ChargeStationAuthList,TapToStop,ChargerType,MaintenanceInfo,Remarks,LocationName,HouseNumber,Street,ZipCode,City,CountryCode3,Addressline2,Facilities,Latitude,Longitude,TimeZone,IsPublic,IsRestricted,LocationDirections,AuthList,EnergyMixProfileIdLocationType,PaymentProvider,WalletId
+fjell1,apcoa-onboarding-1-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Norbygata,,Norbygata,1281,Oslo,NOR,,,,,,TRUE,FALSE,,,,,
+fjell2,apcoa-onboarding-1-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Norbygata,,Norbygata,1281,Oslo,NOR,,,,,,TRUE,FALSE,,,,,
+fjell3,apcoa-onboarding-1-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Norbygata,,Norbygata,1281,Oslo,NOR,,,,,,TRUE,FALSE,,,,,
+fjell4,apcoa-onboarding-1-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Norbygata,,Norbygata,1281,Oslo,NOR,,,,,,TRUE,FALSE,,,,,

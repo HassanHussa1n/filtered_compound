@@ -1,0 +1,9 @@
+ChargeStationID,ChargeStationTemplateID,TariffCode,ReimbursementTariffCode,ChargeStationName,Floor,ChargeStationDirections,DeployState,InstallationDate,ContactlessType,ContactlessTerminalSerialNumber,ContactlessTerminalAuthAmount,ChargeStationAuthList,TapToStop,ChargerType,MaintenanceInfo,Remarks,LocationName,HouseNumber,Street,ZipCode,City,CountryCode3,Addressline2,Facilities,Latitude,Longitude,TimeZone,IsPublic,IsRestricted,LocationDirections,AuthList,EnergyMixProfileIdLocationType,PaymentProvider,WalletId
+NB01,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB02,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB03,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB04,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB05,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB06,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB07,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
+NB08,apcoa-onboarding-3-phase_apcoa,A0-NOK,,,,,,,,,,,,Public,,,Bakklandet p-hus,,Nedre baklandet 60,7014,Trondheim,NOR,,,,,,TRUE,FALSE,,,,,
